@@ -2,7 +2,6 @@
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_chat_ui/flutter_chat_ui.dart';
 import 'package:soulmateapk/pages/add_first_name.dart';
 import 'package:soulmateapk/pages/location_page.dart';
 import 'package:soulmateapk/pages/login_page.dart';
