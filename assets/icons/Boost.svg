@@ -1,0 +1,12 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Boost">
+<circle id="Ellipse 5" cx="25.3256" cy="24.9029" r="24.1846" stroke="#AA54EA" stroke-width="0.671795"/>
+<path id="Vector 12" d="M19.2612 22.7042L29.3288 13.2389C29.5637 13.018 29.9446 13.2228 29.8899 13.5405L28.5019 21.6064C28.3096 22.7235 28.7584 23.8543 29.6644 24.5354L31.3033 25.7677C31.8048 26.1447 31.8435 26.8835 31.3842 27.3109L21.3003 36.6936C21.061 36.9162 20.677 36.7008 20.7423 36.3806L22.2443 29.0149C22.4501 28.0061 22.1282 26.9619 21.3902 26.244L19.2487 24.1607C18.8372 23.7603 18.8429 23.0975 19.2612 22.7042Z" fill="url(#paint0_linear_1_230)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_230" x1="17.0963" y1="31.3615" x2="36.9142" y2="24.9794" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AA54EA"/>
+<stop offset="1" stop-color="#B468EE"/>
+</linearGradient>
+</defs>
+</svg>
